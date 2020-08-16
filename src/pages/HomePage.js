@@ -14,3 +14,5 @@ const HomePage = () => (
     </p>
   </Fragment>
 )
+
+export default HomePage;
